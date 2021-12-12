@@ -100,7 +100,31 @@
                 "Nouvel iPad mini. Design tout écran avec écran Liquid Retina de 8,3 pouces. Puissante puce A15 Bionic avec Neural Engine. Caméra avant ultra grand-angle 12 Mpx avec Cadre centré. Connectivité USB-C. Connectivité 5G ultra-rapide."
             ]
             
+          },
+
+
+
+        {
+          "books" :[
+            {
+              "id": "8f4aa769-7841-424c-a817-a6b50ae75c66",
+              "title": "parasite",
+              "Auteur":"aymen",
+              "image":
+                "https://www.tunisianet.com.tn/img/cms/mine/Samsung_Tunisie/samsung-galaxy-s21-ultra-prise-en-main-une.jpg",
+              
+              "price": 1500
+            }
+          ]
           }
+        ]
+      }
+            
+          
         
-      ]
-    }
+     
+    
+            
+            
+            
+            
